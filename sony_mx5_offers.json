@@ -1,0 +1,41 @@
+{
+  "produit": "Sony WH-1000XM5",
+  "date_mise_a_jour": "2024-11-30",
+  "offres": [
+    {
+      "vendeur": "Amazon",
+      "prix": 295.97,
+      "devise": "EUR",
+      "couleur": "Noir",
+      "reduction": "-16%",
+      "lien": "https://www.amazon.fr"
+    },
+    {
+      "vendeur": "Fnac",
+      "prix": 299.99,
+      "devise": "EUR",
+      "reduction": "-26%",
+      "prix_original": 399.99,
+      "avantages": "10€ sur la cagnotte tous les 100€ pour les adhérents"
+    },
+    {
+      "vendeur": "Rakuten",
+      "prix": 276.62,
+      "devise": "EUR",
+      "frais_port": 5.36,
+      "prix_total": 282.98
+    },
+    {
+      "vendeur": "Idealo",
+      "prix": 317.69,
+      "devise": "EUR",
+      "couleur": "Bleu"
+    }
+  ],
+  "caracteristiques": {
+    "type": "Casque sans fil",
+    "reduction_bruit": true,
+    "bluetooth": true,
+    "note": "5/5 selon Les Numériques"
+  }
+}
