@@ -8,7 +8,7 @@
       "devise": "EUR",
       "couleur": "Noir",
       "reduction": "-16%",
-      "lien": "https://www.amazon.fr"
+      "url": "https://www.lesnumeriques.com/casque-nomade/black-friday-2024-le-casque-nomade-sony-wh-1000xm5-noir-5-etoiles-a-295-97-16-n228983.html"
     },
     {
       "vendeur": "Fnac",
@@ -16,20 +16,23 @@
       "devise": "EUR",
       "reduction": "-26%",
       "prix_original": 399.99,
-      "avantages": "10€ sur la cagnotte tous les 100€ pour les adhérents"
+      "avantages": "10€ sur la cagnotte tous les 100€ pour les adhérents",
+      "url": "https://leclaireur.fnac.com/article/384647-black-friday-2023-le-casque-a-reduction-de-bruit-sony-wh1000xm5-note-5-5-a-26/"
     },
     {
       "vendeur": "Rakuten",
       "prix": 276.62,
       "devise": "EUR",
       "frais_port": 5.36,
-      "prix_total": 282.98
+      "prix_total": 282.98,
+      "url": "https://www.phonandroid.com/black-friday-sony-wh-1000xm5-chute-prix-casque-reduction-bruit.html"
     },
     {
       "vendeur": "Idealo",
       "prix": 317.69,
       "devise": "EUR",
-      "couleur": "Bleu"
+      "couleur": "Bleu",
+      "url": "https://www.idealo.fr/prix/201949755/sony-wh-1000xm5.html"
     }
   ],
   "caracteristiques": {
